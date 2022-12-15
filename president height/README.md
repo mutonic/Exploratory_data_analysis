@@ -2,7 +2,7 @@
 This project is a data analysis of the heights of US Presidents. The data is in a CSV file hosted on GitHub and it contains the name, the order in which the person served as president, and their height in centimeters.
 
 ## Getting Started
-To get started, you need to have the following libraries installed:
+To get started, the following libraries were installed:
 
   - pandas
   - numpy
