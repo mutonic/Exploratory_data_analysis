@@ -52,3 +52,5 @@ births_day.index = ['Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat', 'Sun']
 births_day.plot()
 plt.ylabel("Average Births by Day")
 plt.show()
+
+
